@@ -47,3 +47,8 @@
 
 `symukherjee@ieng6.ucsd.edu:~/.ssh/authorized_keys`
 ![Image](4.jpg)
+
+## Part 3
+
+I learned how to log into my ieng6 account remotely and how to use ls to print the absolute path to a file.
+I also learned how to write a web application in java which was pretty cool. I have only done this in python before.
